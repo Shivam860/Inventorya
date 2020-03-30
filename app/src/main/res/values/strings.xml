@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Inventorya</string>
+    <string name="please_wait_splash_activity">Please wait while sync…</string>
+    <string name="successfully_sync">successfully sync</string>
+    <string name="error_while_sync">Error maa chuda while sync</string>
+
+</resources>
