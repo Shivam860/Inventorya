@@ -4,4 +4,6 @@
     <string name="successfully_sync">successfully sync</string>
     <string name="error_while_sync">Error maa chuda while sync</string>
 
+    <string name="dashboard">Dashboard</string>
+    <string name="subject">Subject</string>
 </resources>
